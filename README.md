@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @giorgos-tzafilkos
-- 👀 I’m interested in embedded systems, IOT, tiny ml, computer vision and thing like that :)
-- 🌱 I’m currently learning unity and open cv
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in backEnd development
+- 🌱 I’m currently learning springBoot
 - 📫 How to reach me ... tzaf.giorgos@gmail.com
 
 <!---
